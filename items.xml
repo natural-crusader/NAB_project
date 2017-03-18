@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<document>
+	<item id="73-ou-XW46" name="Apple" quantity="1">
+		<categories>
+			<category>a</category>
+		</categories>
+	</item>
+	<item id="67-VI-yW05" name="Apricot" quantity="7">
+		<categories>
+			<category>a</category>
+			<category>b</category>
+		</categories>
+	</item>
+	<item id="42-bV-BM29" name="Banana" quantity="34">
+		<categories>
+			<category>x</category>
+		</categories>
+	</item>
+	<item id="10-Dx-tU76" name="Cherry" quantity="94">
+		<categories>
+			<category>x</category>
+		</categories>
+	</item>
+	<item id="33-tL-TG49" name="Coconut Pie" quantity="3">
+		<categories>
+		</categories>
+	</item>
+	<item id="76-KM-iP14" name="Grape" quantity="123">
+		<categories>
+			<category>category 1</category>
+			<category>category 2</category>
+			<category>category 3</category>
+		</categories>
+	</item>
+	<item id="72-Bx-hb21" name="Lemon" quantity="645">
+		<categories>
+			<category>category 1</category>
+			<category>category2</category>
+			<category>my long category name</category>
+		</categories>
+	</item>
+	<item id="23-jo-Db50" name="Lime Juice" quantity="2">
+		<categories>
+			<category>xx</category>
+		</categories>
+	</item>
+	<item id="45-fU-oJ52" name="Apple" quantity="64984654">
+		<categories>
+			<category>a</category>
+			<category>k</category>
+			<category>x</category>
+		</categories>
+	</item>	<item id="75-AQ-Tj43" name="Melon on a stick!" quantity="231">
+		<categories>
+			<category>a</category>
+			<category>b</category>
+		</categories>
+	</item>
+	<item id="67-VI-yW05" name="Onion" quantity="7">
+		<categories>
+			<category>category 1</category>
+		</categories>
+	</item>
+	<item id="33-tL-TG49" name="Lime Juice" quantity="7">
+		<categories>
+			<category>o</category>
+			<category>x</category>
+			<category>y</category>
+		</categories>
+	</item>
+	<item id="80Gw-xT97" name="Pear" quantity="920">
+		<categories>
+			<category>a</category>
+		</categories>
+	</item>
+	<item id="30-$o-hk99" name="Peach" quantity="321">
+		<categories>
+			<category>ok</category>
+			<category>xz</category>
+		</categories>
+	</item>
+	<item id="03-AI-fez9" name="Pepper" quantity="31">
+		<categories>
+			<category>wz</category>
+		</categories>
+	</item>
+	<item id="02-hy-nb81" quantity="5">
+	</item>
+	<item id="81-Xw-Le86" name="Watermelon">
+		<categories>
+			<category>a</category>
+			<category>b</category>
+		</categories>
+	</item>
+	<item id="99-eJ-rz01" name="Apple Pie" quantity="0">
+		<categories>
+			<category>oi</category>
+			<category>xz</category>
+		</categories>
+	</item>
+	<item id="71-DU-jw55" name="Fish" quantity="-28">
+		<categories>
+			<category>zip</category>
+			<category>zam</category>
+		</categories>
+	</item>
+	<item id="40-Sb-OL50" name="Pineapple" quantity="5.23">
+		<categories>
+			<category>foo</category>
+			<category>bar</category>
+		</categories>
+	</item>
+</document>

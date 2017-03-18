@@ -1,0 +1,22 @@
+1. 
+by casting to an integer we insure there is no SQL injection.  this doesn't however see if you have access to said item.
+
+$id = (int) $request['id'];
+$result = query($conn, "SELECT * FROM testdb WHERE id = $id");
+
+2. 
+
+a = 4 
+b = 3
+
+you pass by reference, set return to the value of a, then increase the value of a (by reference).  return is still the old value (not reference).
+
+3. 
+
+Object PraseCode use as ParseCode::parseToString("filepath")
+you can use parse_file.php to execute the code
+
+4.
+
+Object RomanNumeral use as RomanNumeral::convert(value)
+you can use RomanNumeral from command line to execute the code
